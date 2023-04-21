@@ -154,7 +154,7 @@ const PatientList = () => {
                     flexWrap: 'wrap',
                     '& > :not(style)': {
                         m: 5,
-                        width: 330,
+                        width: 300,
                     },
                 }}
             >
